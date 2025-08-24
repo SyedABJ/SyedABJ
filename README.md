@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SyedABJ, a sophomore at NITK
+- 👋 Hi, I’m @SyedABJ, a Final Year Undergrad at NITK
 - 👀 I’m interested in VLSI and Hardware Software Co-Design 
 - 🌱 I’m currently learning Computer Architecture,Analog and Digital IC Design
 - 💞️ I’m looking to collaborate on VLSI & FPGA-based PROJECTS
-- 📫 How to reach me https://www.linkedin.com/in/syed-abubaker-bin-junaid-83526b23a
+- 📫 How to reach me: https://www.linkedin.com/in/syed-abubaker-bin-junaid-83526b23a
   
 
 <!---
